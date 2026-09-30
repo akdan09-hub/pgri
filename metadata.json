@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pendaftaran POR PGRI Kab. Mempawah",
+  "description": "Aplikasi terpadu pendaftaran Pekan Olahraga PGRI untuk 9 kecamatan di Kabupaten Mempawah dengan integrasi data real-time, upload SK Guru & Kartu PGRI, rekapitulasi dashboard admin (dapat diedit), notifikasi otomatis, cetak ID card QR code, dan ekspor Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
